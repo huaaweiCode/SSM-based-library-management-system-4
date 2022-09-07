@@ -1,10 +1,6 @@
 # 基于SSM的图书管理管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  ： **书店4**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -60,12 +56,4 @@
 ![管理员-出版社考虑](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212991.jpg)
 
 ![管理员-图书详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141212249.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**书店4** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
